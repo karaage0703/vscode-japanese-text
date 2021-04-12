@@ -1,0 +1,4 @@
+{
+    "vim.disableExtension": true,
+    "editor.wordSeparators": "`~!@#$%^&*()-=+[{]}\\|;:'\",.<>/?、。"
+}
